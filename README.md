@@ -43,13 +43,15 @@ Dogs
 * Chien qui aboie
 
 ## 311 - Toronto at your Service
-https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=a7afe2242f28b510VgnVCM10000071d60f89RCRD
+http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf
 
 7 Main Categories: 
-* Bins
-* Graffiti & Litter
-* Roads
-* Water
-* Trees & Animals
-* Property Issues
-* Complaints & Comments
+* Bins https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=ddcfe2242f28b510VgnVCM10000071d60f89RCRD
+* Graffiti & Litter https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=06efe2242f28b510VgnVCM10000071d60f89RCRD
+* Roads https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=9fffe2242f28b510VgnVCM10000071d60f89RCRD
+* Water https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4c00e2242f28b510VgnVCM10000071d60f89RCRD
+* Trees & Animals https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=ad10e2242f28b510VgnVCM10000071d60f89RCRD
+* Property Issues https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=2960e2242f28b510VgnVCM10000071d60f89RCRD
+* Complaints & Comments https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=6870e2242f28b510VgnVCM10000071d60f89RCRD
+
+List of all subcategories can be found here: http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf

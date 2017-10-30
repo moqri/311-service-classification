@@ -1,7 +1,7 @@
 # A list of proposed classification for "311 Service Request Types" 
 by cities, organizations, and individuals
 
-## Houston 311 Service Request Index here:
+## Houston 311 Service Request Index
 http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm 
 They have main categories such as Apartments and Animals and under each main
 category they have sub-categories. For example:

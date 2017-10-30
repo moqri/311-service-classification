@@ -10,8 +10,8 @@ They have main categories such as Apartments and Animals and under each main
 category they have sub-categories. For example:
  
 Animals
-       Dead Animal Collection ...
-       Live Animal in Storm Sewer
+* Dead Animal Collection ...
+* Live Animal in Storm Sewer
 Apartments
        Building Concern ...
        Code Violation Report ...
@@ -30,15 +30,15 @@ Signage, Snow, Taxes, Trees, Water
 For each main category, he reports the top 5 service types:
  
 Bulky Collection
-	Dechets - Objet volumineux a ramasser
-	Dechets - Objet volumineux non ramasse
-	Dechets - Objet volumineux a
-	Dechets - Objet volumineux non
-	Dechets - Objet volumineux non ramass
+* Dechets - Objet volumineux a ramasser
+* Dechets - Objet volumineux non ramasse
+* Dechets - Objet volumineux a
+* Dechets - Objet volumineux non
+* Dechets - Objet volumineux non ramass
 Dogs
-	Chien - Permis
-	Chien - Fourriere et patrouille
-	Chien sans permis
-	Chien - Fourriere et
-	Chien qui aboie
-  
+* Chien - Permis
+* Chien - Fourriere et patrouille
+* Chien sans permis
+* Chien - Fourriere et
+* Chien qui aboie
+

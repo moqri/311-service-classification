@@ -1,6 +1,7 @@
 # 311-service-classification
 
-## A list of proposed classification for "311 Service Request Types" by cities, organizations, and individuals
+## A list of proposed classification for "311 Service Request Types" 
+by cities, organizations, and individuals
 
 ### Houston 311 Service Request Index here:
 http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA​-Nov2016​.htm

@@ -25,7 +25,7 @@ types into the following 18 main categories:
 Bulky Collection, Dogs, Environment, Garbage Collection, Lighting, Other,
 Parking, Parks, Permits, Roads, Security, Selective Collection, Sewers,
 Signage, Snow, Taxes, Trees, Water
- 
+(https://raw.githubusercontent.com/moqri/311-service-classification/master/images/montreal_categories.png) 
  
 For each main category, he reports the top 5 service types:
  

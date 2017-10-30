@@ -55,3 +55,17 @@ http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf
 * Complaints & Comments https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=6870e2242f28b510VgnVCM10000071d60f89RCRD
 
 List of all subcategories can be found here: http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf
+
+## NYC 311 Service Categories
+http://wiki.open311.org/Inquiry_v1/#inputs
+
+9 Main Categories
+* Transportation, Streets, and Sidewalks
+* Environment and Sanitation
+* Property, Buildings and Homes
+* Education and Employment
+* Business and Finance
+* Social Services
+* Health and Medicine
+* Public Safety and Law
+* Government and Civil Services

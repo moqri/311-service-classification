@@ -28,7 +28,7 @@ Top 100 Service Ratio = Number of service requests in top 100 request types for 
 
 ### Most Common Keywords 
 
-Most used keywords accorss all 12 cities (after removing stop_words and ambiguous words) are as follows.
+Most common keywords used in a service request name accorss all 12 cities (after removing stop_words and ambiguous words) are as follows.
 
 Street, Trash, Sign, Graffiti, Tree, Cart, Traffic, Recycling, Sidewalk, Building, Vehicle, Animal, Water, Signal, Parking, Light, Abandoned, Muni, District, Park, Removal, Waste, Dead, Curb, Noise, City, Dumping, General, Pothole, Utility, Weeds, Cleaning, Vacant, Public, Marking, Snow, Pickup, Litter, Permit, Yard, Commercial, Trees, Service, Grass, VAP, DOF, Heat, Collection, Pedestrian, Plumbing
 

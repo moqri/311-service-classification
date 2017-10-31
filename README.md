@@ -1,4 +1,4 @@
-#"311 Service Request Types" Classifications
+# 311 Service Request Type Classifications
 by cities, organizations, and individuals
 
 ## [New Orleans](https://www.nola.gov/311/service-request-types/)

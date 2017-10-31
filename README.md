@@ -98,6 +98,8 @@ List of all subcategories can be found here: http://www.toronto.ca/311/assets/PD
 * Vehicle/parking Issue
 * Weather Issue
 
+69 Subcategories (Abandoned Vehicle, Accessible Parking Zone, ...). [full list](http://lists.open311.org/groups/discuss/messages/topic/6eDZleJm0Ao2GfgBxuQxxS/https://www.bing.com/?scope=web&mkt=en-US&FORM=INCOH1&pc=IC04)
+
 ## NYC 311 Service Categories
 http://wiki.open311.org/Inquiry_v1/#inputs
 

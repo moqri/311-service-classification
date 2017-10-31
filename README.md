@@ -102,20 +102,27 @@ List of all subcategories can be found here: http://www.toronto.ca/311/assets/PD
 * Dead Animal Removal
 * Investigations
 
- * Homeless encampment, Illegal auto repair, Illegal construction, Illegal construction fence, Illegal discharge of water, Illegal dumping in progress, Illegal excavation, Illegal sign removal, Illegal vending, Leaf blower violation, News rack violation, Obstructions and Tables , chairs obstructing and Report Water Waste
+...Homeless encampment, Illegal auto repair, Illegal construction, Illegal construction fence, Illegal discharge of water, Illegal dumping in progress, Illegal excavation, Illegal sign removal, Illegal vending, Leaf blower violation, News rack violation, Obstructions and Tables , chairs obstructing and Report Water Waste
 * Problems & Repairs
-Report graffiti or issues with streetlights
+
+...Report graffiti or issues with streetlights
 * Refuse & Pickups
-Bulky item, Containers, Electronic waste, Metal / household appliances, Illegal dumping, Service not complete and etc
+
+...Bulky item, Containers, Electronic waste, Metal / household appliances, Illegal dumping, Service not complete and etc
 * Sanitation Billing
-Bulky item fee, Extra capacity charge, Solid resource fee and Sewer Service Charge Adjustments
+
+...Bulky item fee, Extra capacity charge, Solid resource fee and Sewer Service Charge Adjustments
 * Street Problem/Repair
-Barricade removal, Bus pad/landing, Curb repair, Flooding, General street inspection, Guard/warning rail maintenance, Gutter repair, Land/mudslide, Pothole, Resurfacing, Sidewalk repair and Street sweeping
+
+...Barricade removal, Bus pad/landing, Curb repair, Flooding, General street inspection, Guard/warning rail maintenance, Gutter repair, Land/mudslide, Pothole, Resurfacing, Sidewalk repair and Street sweeping
 * Trees/Vegetation
-Bees or beehive, Median island maintenance, Overgrown vegetation/plants, Palm fronds down, Street tree inspection, Street tree violations, Tree emergency, Tree obstruction, Tree permits and Weed abatement for pvt parcels
+
+...Bees or beehive, Median island maintenance, Overgrown vegetation/plants, Palm fronds down, Street tree inspection, Street tree violations, Tree emergency, Tree obstruction, Tree permits and Weed abatement for pvt parcels
 * Other
-To be used ONLY if the issue being reported does not fit into any of the SR Types available on this list. Select Radio buttons above to see more SR Types.
+
+...To be used ONLY if the issue being reported does not fit into any of the SR Types available on this list. Select Radio buttons above to see more SR Types.
 * Feedback
+
 ## [NYC 311 Service Categories](http://wiki.open311.org/Inquiry_v1/#inputs)
 
 9 Main Categories

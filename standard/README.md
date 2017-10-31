@@ -23,7 +23,7 @@
 
 [full table](https://github.com/moqri/311-service-classification/blob/master/standard/top_service.csv)
 
-### Most Used Keywords 
+### Most Common Keywords 
 
 Most used keywords accorss all 12 cities (after removing stop_words and ambiguous words) are as follows.
 

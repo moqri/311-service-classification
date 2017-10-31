@@ -2,7 +2,7 @@
 
 ### Cities
 
-| City             | # Requests | Coverage |
+| City             | # Requests | Top 100 Services |
 |------------------|------------|----------|
 | Cinciniti        | 555811     | 93%      |
 | Philadelphia     | 1659364    | 100%     |

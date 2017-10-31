@@ -51,21 +51,7 @@ by cities, organizations, and individuals
 
 ![categories](https://raw.githubusercontent.com/moqri/311-service-classification/master/images/montreal_categories.png) 
  
-For each main category, he reports the top 5 service types:
- 
-Bulky Collection
-* Dechets - Objet volumineux a ramasser
-* Dechets - Objet volumineux non ramasse
-* Dechets - Objet volumineux a
-* Dechets - Objet volumineux non
-* Dechets - Objet volumineux non ramass
-
-Dogs
-* Chien - Permis
-* Chien - Fourriere et patrouille
-* Chien sans permis
-* Chien - Fourriere et
-* Chien qui aboie
+For each main category, the top 5 service types are reported. The full table is under [this section](http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction)
 
 ## [311 - Toronto at your Service](http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf)
 

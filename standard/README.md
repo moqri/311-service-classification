@@ -34,7 +34,7 @@ Street, Trash, Sign, Graffiti, Tree, Cart, Traffic, Recycling, Sidewalk, Buildin
 
 ### Extracted Tags
 
-After removing alternative term (e.g. weeds -> grass) and combining terms (e.g. sign, signal, traffic -> traffic), we propose the following standard tags for 311 services.
+After removing alternative term (e.g. weeds -> grass) and combining terms (e.g. sign, signal, traffic -> traffic), we propose the following **standard tags** for 311 services for US cities.
 
 * street 
 * light

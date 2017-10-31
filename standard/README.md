@@ -1,8 +1,9 @@
 # CDO Network 311 Service Classification, an Analysis
 
 ### Cities
+The following table summarizes the number of service requests and the ratio of the top 100 most commonly used service request for each city in our analysis.
 
-| City             | # Requests | Top 100 Services |
+| City             | # Requests | Top 100 Services Ratio|
 |------------------|------------|----------|
 | Cinciniti        | 555811     | 93%      |
 | Philadelphia     | 1659364    | 100%     |
@@ -16,6 +17,8 @@
 | Boston           | 1027469    | 89%      |
 | San Diego        | 161763     | 100%     |
 | New Orleans      | 244338     | 100%     |
+
+Top 100 Service Ratio = Number of service requests in top 100 request types for that city / Total number of service request for that city
 
 ### Top 100 Services by City
 

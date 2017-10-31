@@ -38,7 +38,8 @@ Subcategories can be found [here](https://www.nola.gov/311/service-request-types
 * Dogs
 * Environment
 * Garbage Collection
-* Lighting, Other,
+* Lighting, 
+* Other,
 * Parking
 * Parks
 * Permits

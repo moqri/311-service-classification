@@ -1,36 +1,11 @@
 # 311 Service Request Classifications
 proposed by cities, organizations, and individuals
 
-## [New Orleans](https://www.nola.gov/311/service-request-types/)
+## Classification Analysis
+### 311 Service Classification - CDO Network Cities
+[Top service types by citt](https://github.com/moqri/311-service-classification/blob/master/standard/top_service.csv)
 
-11 main categories:
-* Roads/Drainage
-* Lights/Signs/Signals
-* Property Maintenance
-* Trash/Recycling
-* Abandoned Vehicles
-* Parks & Parkways
-* Mosquito, Termite & Rodent Control
-* Taxi Issues
-* Health-Related Requests
-* NORDC
-* EMS
-
-Subcategories can be found [here](https://www.nola.gov/311/service-request-types/)
-
-## [Houston 311 Service Request Index](http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm)
-
-68 main categories:
-* Air Quality	
-* Animals
-* Ballfield
-* Birth Certificates
-* Boarding House
-
-[full list with subcategores](http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm)
-
-
-## [Montreal 311 Service Requests, an Analysis](http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction)
+### [Montreal 311 Service Requests, an Analysis](http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction)
  
 18 main categories (based on analysis of Montreal 311 data by [@nicolaskruchten](https://github.com/nicolaskruchten))
  
@@ -53,11 +28,41 @@ Subcategories can be found [here](https://www.nola.gov/311/service-request-types
 * Trees
 * Water
 
+## Published Classification by Cities
+### [New Orleans](https://www.nola.gov/311/service-request-types/)
+
+11 main categories:
+* Roads/Drainage
+* Lights/Signs/Signals
+* Property Maintenance
+* Trash/Recycling
+* Abandoned Vehicles
+* Parks & Parkways
+* Mosquito, Termite & Rodent Control
+* Taxi Issues
+* Health-Related Requests
+* NORDC
+* EMS
+
+Subcategories can be found [here](https://www.nola.gov/311/service-request-types/)
+
+### [Houston 311 Service Request Index](http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm)
+
+68 main categories:
+* Air Quality	
+* Animals
+* Ballfield
+* Birth Certificates
+* Boarding House
+
+[full list with subcategores](http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm)
+
+
 ![categories](https://raw.githubusercontent.com/moqri/311-service-classification/master/images/montreal_categories.png) 
  
 For each main category, the top 5 service types are reported. The full table is under [this section](http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction)
 
-## [311 - Toronto at your Service](http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf)
+### [311 - Toronto at your Service](http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf)
 
 7 Main Categories: 
 * [Bins](https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=ddcfe2242f28b510VgnVCM10000071d60f89RCRD)
@@ -70,7 +75,7 @@ For each main category, the top 5 service types are reported. The full table is 
 
 Subcategories can be found [here](http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf)
 
-## Louisville 311 Classification
+### Louisville 311 Classification
 
 22 Main Categories
 * Air Quality Concerns
@@ -98,7 +103,7 @@ Subcategories can be found [here](http://www.toronto.ca/311/assets/PDFs/service_
 
 69 Subcategories (Abandoned Vehicle, Accessible Parking Zone, ...). [full list](http://lists.open311.org/groups/discuss/messages/topic/6eDZleJm0Ao2GfgBxuQxxS/https://www.bing.com/?scope=web&mkt=en-US&FORM=INCOH1&pc=IC04)
 
-## [MyLA 311](https://myla311.lacity.org/portal/faces/home/service/service-request?_adf.ctrl-state=a0wa2ahb1_4&_afrLoop=3828705247685987#!)
+### [MyLA 311](https://myla311.lacity.org/portal/faces/home/service/service-request?_adf.ctrl-state=a0wa2ahb1_4&_afrLoop=3828705247685987#!)
 9 Main Categories
 * Dead Animal Removal
 * Investigations
@@ -124,7 +129,7 @@ Subcategories can be found [here](http://www.toronto.ca/311/assets/PDFs/service_
    To be used ONLY if the issue being reported does not fit into any of the SR Types available on this list. Select Radio buttons above to see more SR Types.
 * Feedback
 
-## [NYC 311 Service Categories](http://wiki.open311.org/Inquiry_v1/#inputs)
+### [NYC 311 Service Categories](http://wiki.open311.org/Inquiry_v1/#inputs)
 
 9 Main Categories
 * Transportation, Streets, and Sidewalks
@@ -139,5 +144,5 @@ Subcategories can be found [here](http://www.toronto.ca/311/assets/PDFs/service_
 
 Subcategories ???
 
-## [AIRS/211 LA County Taxonomy](https://211taxonomy.org/)
+### [AIRS/211 LA County Taxonomy](https://211taxonomy.org/)
 Not Open! ($250 Annul Subscription)

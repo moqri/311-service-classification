@@ -29,7 +29,7 @@ by cities, organizations, and individuals
 
 ## [Montreal 311 Service Requests, an Analysis](http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction)
  
-18 main categories (based on analysis of Montreal 311 data by @nicolaskruchten)
+18 main categories (based on analysis of Montreal 311 data by [@nicolaskruchten](https://github.com/nicolaskruchten))
  
 * Bulky Collection
 * Dogs

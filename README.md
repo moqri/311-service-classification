@@ -98,29 +98,29 @@ List of all subcategories can be found here: http://www.toronto.ca/311/assets/PD
 69 Subcategories (Abandoned Vehicle, Accessible Parking Zone, ...). [full list](http://lists.open311.org/groups/discuss/messages/topic/6eDZleJm0Ao2GfgBxuQxxS/https://www.bing.com/?scope=web&mkt=en-US&FORM=INCOH1&pc=IC04)
 
 ## [MyLA 311](https://myla311.lacity.org/portal/faces/home/service/service-request?_adf.ctrl-state=a0wa2ahb1_4&_afrLoop=3828705247685987#!)
-
+9 Main Categories
 * Dead Animal Removal
 * Investigations
 
-...Homeless encampment, Illegal auto repair, Illegal construction, Illegal construction fence, Illegal discharge of water, Illegal dumping in progress, Illegal excavation, Illegal sign removal, Illegal vending, Leaf blower violation, News rack violation, Obstructions and Tables , chairs obstructing and Report Water Waste
+   Homeless encampment, Illegal auto repair, Illegal construction, Illegal construction fence, Illegal discharge of water, Illegal dumping in progress, Illegal excavation, Illegal sign removal, Illegal vending, Leaf blower violation, News rack violation, Obstructions and Tables , chairs obstructing and Report Water Waste
 * Problems & Repairs
 
-...Report graffiti or issues with streetlights
+   Report graffiti or issues with streetlights
 * Refuse & Pickups
 
-...Bulky item, Containers, Electronic waste, Metal / household appliances, Illegal dumping, Service not complete and etc
+   Bulky item, Containers, Electronic waste, Metal / household appliances, Illegal dumping, Service not complete and etc
 * Sanitation Billing
 
-...Bulky item fee, Extra capacity charge, Solid resource fee and Sewer Service Charge Adjustments
+   Bulky item fee, Extra capacity charge, Solid resource fee and Sewer Service Charge Adjustments
 * Street Problem/Repair
 
-...Barricade removal, Bus pad/landing, Curb repair, Flooding, General street inspection, Guard/warning rail maintenance, Gutter repair, Land/mudslide, Pothole, Resurfacing, Sidewalk repair and Street sweeping
+   Barricade removal, Bus pad/landing, Curb repair, Flooding, General street inspection, Guard/warning rail maintenance, Gutter repair, Land/mudslide, Pothole, Resurfacing, Sidewalk repair and Street sweeping
 * Trees/Vegetation
 
-...Bees or beehive, Median island maintenance, Overgrown vegetation/plants, Palm fronds down, Street tree inspection, Street tree violations, Tree emergency, Tree obstruction, Tree permits and Weed abatement for pvt parcels
+   Bees or beehive, Median island maintenance, Overgrown vegetation/plants, Palm fronds down, Street tree inspection, Street tree violations, Tree emergency, Tree obstruction, Tree permits and Weed abatement for pvt parcels
 * Other
 
-...To be used ONLY if the issue being reported does not fit into any of the SR Types available on this list. Select Radio buttons above to see more SR Types.
+   To be used ONLY if the issue being reported does not fit into any of the SR Types available on this list. Select Radio buttons above to see more SR Types.
 * Feedback
 
 ## [NYC 311 Service Categories](http://wiki.open311.org/Inquiry_v1/#inputs)

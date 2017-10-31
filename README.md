@@ -1,17 +1,6 @@
 # A list of proposed classification for "311 Service Request Types" 
 by cities, organizations, and individuals
 
-## [Houston 311 Service Request Index](http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm)
-
-68 main categories:
-* Air Quality	
-* Animals
-* Ballfield
-* Birth Certificates
-* Boarding House
-[full list](http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm)
-
-
 ## [New Orleans](https://www.nola.gov/311/service-request-types/)
 
 11 main categories:
@@ -26,6 +15,20 @@ by cities, organizations, and individuals
 * Health-Related Requests
 * NORDC
 * EMS
+
+Subcategories can be found [here](https://www.nola.gov/311/service-request-types/)
+
+## [Houston 311 Service Request Index](http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm)
+
+68 main categories:
+* Air Quality	
+* Animals
+* Ballfield
+* Birth Certificates
+* Boarding House
+
+[full list with subcategores](http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm)
+
 
 ## [Montreal 311 Service Requests, an Analysis](http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction)
  
@@ -64,7 +67,7 @@ For each main category, the top 5 service types are reported. The full table is 
 * [Property Issues](https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=2960e2242f28b510VgnVCM10000071d60f89RCRD)
 * [Complaints & Comments](https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=6870e2242f28b510VgnVCM10000071d60f89RCRD)
 
-List of all subcategories can be found here: http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf
+Subcategories can be found here: http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf
 
 ## Louisville 311 Classification
 

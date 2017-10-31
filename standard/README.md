@@ -18,7 +18,7 @@ The following table summarizes the number of service requests and the ratio of t
 | San Diego        | 161763     | 100%     |
 | New Orleans      | 244338     | 100%     |
 
-Top 100 Service Ratio = Number of service requests in top 100 request types for that city / Total number of service request for that city
+Top 100 Service Ratio = Number of service requests in top 100 request types for that city / Total number of service request for that city in our analysis
 
 ### Top 100 Services by City
 

@@ -2,8 +2,9 @@
 proposed by cities, organizations, and individuals
 
 ## Classification Analysis
-### 311 Service Classification - CDO Network Cities
+### CDO Network 311 Service Classification, an Analysis
 [Top service types by city](https://github.com/moqri/311-service-classification/blob/master/standard/top_service.csv)
+
 
 ### [Montreal 311 Service Requests, an Analysis](http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction)
  
@@ -46,6 +47,7 @@ proposed by cities, organizations, and individuals
 
 Subcategories can be found [here](https://www.nola.gov/311/service-request-types/)
 
+
 ### [Houston 311 Service Request Index](http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm)
 
 68 main categories:
@@ -62,6 +64,7 @@ Subcategories can be found [here](https://www.nola.gov/311/service-request-types
  
 For each main category, the top 5 service types are reported. The full table is under [this section](http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction)
 
+
 ### [311 - Toronto at your Service](http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf)
 
 7 Main Categories: 
@@ -74,6 +77,7 @@ For each main category, the top 5 service types are reported. The full table is 
 * [Complaints & Comments](https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=6870e2242f28b510VgnVCM10000071d60f89RCRD)
 
 Subcategories can be found [here](http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf)
+
 
 ### Louisville 311 Classification
 
@@ -103,6 +107,7 @@ Subcategories can be found [here](http://www.toronto.ca/311/assets/PDFs/service_
 
 69 Subcategories (Abandoned Vehicle, Accessible Parking Zone, ...). [full list](http://lists.open311.org/groups/discuss/messages/topic/6eDZleJm0Ao2GfgBxuQxxS/https://www.bing.com/?scope=web&mkt=en-US&FORM=INCOH1&pc=IC04)
 
+
 ### [MyLA 311](https://myla311.lacity.org/portal/faces/home/service/service-request?_adf.ctrl-state=a0wa2ahb1_4&_afrLoop=3828705247685987#!)
 9 Main Categories
 * Dead Animal Removal
@@ -129,6 +134,7 @@ Subcategories can be found [here](http://www.toronto.ca/311/assets/PDFs/service_
    To be used ONLY if the issue being reported does not fit into any of the SR Types available on this list. Select Radio buttons above to see more SR Types.
 * Feedback
 
+
 ### [NYC 311 Service Categories](http://wiki.open311.org/Inquiry_v1/#inputs)
 
 9 Main Categories
@@ -143,6 +149,7 @@ Subcategories can be found [here](http://www.toronto.ca/311/assets/PDFs/service_
 * Government and Civil Services
 
 Subcategories ???
+
 
 ### [AIRS/211 LA County Taxonomy](https://211taxonomy.org/)
 Not Open! ($250 Annul Subscription)

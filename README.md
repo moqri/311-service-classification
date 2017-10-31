@@ -3,7 +3,7 @@ proposed by cities, organizations, and individuals
 
 ## Classification Analysis
 ### 311 Service Classification - CDO Network Cities
-[Top service types by citt](https://github.com/moqri/311-service-classification/blob/master/standard/top_service.csv)
+[Top service types by city](https://github.com/moqri/311-service-classification/blob/master/standard/top_service.csv)
 
 ### [Montreal 311 Service Requests, an Analysis](http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction)
  

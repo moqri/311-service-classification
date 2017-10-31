@@ -21,9 +21,24 @@ http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction
 In the analysis of Montreal 311 data, Nicolas Kruchten categorizes all service
 types into the following 18 main categories:
  
-Bulky Collection, Dogs, Environment, Garbage Collection, Lighting, Other,
-Parking, Parks, Permits, Roads, Security, Selective Collection, Sewers,
-Signage, Snow, Taxes, Trees, Water
+* Bulky Collection
+* Dogs
+* Environment
+* Garbage Collection
+* Lighting, Other,
+* Parking
+* Parks
+* Permits
+* Roads
+* Security
+* Selective Collection
+* Sewers
+* Signage
+* Snow
+* Taxes
+* Trees
+* Water
+
 ![categories](https://raw.githubusercontent.com/moqri/311-service-classification/master/images/montreal_categories.png) 
  
 For each main category, he reports the top 5 service types:
@@ -55,6 +70,32 @@ http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf
 * Complaints & Comments https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=6870e2242f28b510VgnVCM10000071d60f89RCRD
 
 List of all subcategories can be found here: http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf
+
+## Louisville 311 Classification
+
+22 Main Categories
+* Air Quality Concerns
+* Animal Issue
+* Building/construction Issue
+* Business Legal Needs
+* Emergency
+* Garbage/recycle/junk/yard Waste Issue
+* Graffiti
+* Health Issue
+* Illegal Dumping
+* Litter Concerns
+* Miscellaneous
+* Open Burning / Fire Concern
+* Other Concerns/opinions
+* Park/bike/pedestrian Issue
+* Pests
+* Police Issue
+* Sidewalk/curb/guardrail Issue
+* Traffic/roadway Issue
+* Tree/grass/plant Issue
+* Utility Concerns
+* Vehicle/parking Issue
+* Weather Issue
 
 ## NYC 311 Service Categories
 http://wiki.open311.org/Inquiry_v1/#inputs

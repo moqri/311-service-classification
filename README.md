@@ -101,7 +101,7 @@ List of all subcategories can be found here: http://www.toronto.ca/311/assets/PD
 
 * Dead Animal Removal
 * Investigations
-Homeless encampment, Illegal auto repair, Illegal construction, Illegal construction fence, Illegal discharge of water, Illegal dumping in progress, Illegal excavation, Illegal sign removal, Illegal vending, Leaf blower violation, News rack violation, Obstructions and Tables , chairs obstructing and Report Water Waste
+** Homeless encampment, Illegal auto repair, Illegal construction, Illegal construction fence, Illegal discharge of water, Illegal dumping in progress, Illegal excavation, Illegal sign removal, Illegal vending, Leaf blower violation, News rack violation, Obstructions and Tables , chairs obstructing and Report Water Waste
 * Problems & Repairs
 Report graffiti or issues with streetlights
 * Refuse & Pickups

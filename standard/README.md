@@ -28,3 +28,25 @@
 Most used keywords accorss all 12 cities (after removing stop_words and ambiguous words) are as follows.
 
 Street, Trash, Sign, Graffiti, Tree, Cart, Traffic, Recycling, Sidewalk, Building, Vehicle, Animal, Water, Signal, Parking, Light, Abandoned, Muni, District, Park, Removal, Waste, Dead, Curb, Noise, City, Dumping, General, Pothole, Utility, Weeds, Cleaning, Vacant, Public, Marking, Snow, Pickup, Litter, Permit, Yard, Commercial, Trees, Service, Grass, VAP, DOF, Heat, Collection, Pedestrian, Plumbing
+
+### Extracted Tags
+
+After removing alternative term (e.g. weeds -> grass) and combining terms (e.g. sign, signal, traffic -> traffic), we propose the following standard tags for 311 services.
+
+* street 
+* light
+* traffic 
+* sidewalk
+* vehicle
+* graffiti 
+* tree 
+* grass
+* park
+* trash
+* recycle 
+* building
+* district
+* animal 
+* water 
+* noise
+* miscellaneous

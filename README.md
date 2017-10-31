@@ -3,8 +3,9 @@ by cities, organizations, and individuals
 
 ## Houston 311 Service Request Index
 http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm 
-They have main categories such as Apartments and Animals and under each main
-category they have sub-categories. For example:
+
+There are 68 main categories such as Apartments and Animals and under each main
+category there are 1 to 30 sub-categories. For example:
  
 Animals
 * Dead Animal Collection ...

@@ -1,8 +1,8 @@
 # A list of proposed classification for "311 Service Request Types" 
 by cities, organizations, and individuals
 
-## Houston 311 Service Request Index
-http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm 
+## [Houston 311 Service Request Index](http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm 
+)
 
 There are 68 main categories such as Apartments and Animals and under each main
 category there are 1 to 30 sub-categories. For example:
@@ -16,8 +16,7 @@ Apartments
 * Code Violation Report ...
 
 
-## Montreal 311 Service Requests, an Analysis
-http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction
+## [Montreal 311 Service Requests, an Analysis](http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction)
  
 In the analysis of Montreal 311 data, Nicolas Kruchten categorizes all service
 types into the following 18 main categories:
@@ -58,8 +57,7 @@ Dogs
 * Chien - Fourriere et
 * Chien qui aboie
 
-## 311 - Toronto at your Service
-http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf
+## [311 - Toronto at your Service](http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf)
 
 7 Main Categories: 
 * [Bins](https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=ddcfe2242f28b510VgnVCM10000071d60f89RCRD)
@@ -100,8 +98,7 @@ List of all subcategories can be found here: http://www.toronto.ca/311/assets/PD
 
 69 Subcategories (Abandoned Vehicle, Accessible Parking Zone, ...). [full list](http://lists.open311.org/groups/discuss/messages/topic/6eDZleJm0Ao2GfgBxuQxxS/https://www.bing.com/?scope=web&mkt=en-US&FORM=INCOH1&pc=IC04)
 
-## NYC 311 Service Categories
-http://wiki.open311.org/Inquiry_v1/#inputs
+## [NYC 311 Service Categories](http://wiki.open311.org/Inquiry_v1/#inputs)
 
 9 Main Categories
 * Transportation, Streets, and Sidewalks
@@ -116,6 +113,5 @@ http://wiki.open311.org/Inquiry_v1/#inputs
 
 Subcategories ???
 
-## AIRS/211 LA County Taxonomy
-https://211taxonomy.org/
+## [AIRS/211 LA County Taxonomy](https://211taxonomy.org/)
 Not Open! ($250 Annul Subscription)

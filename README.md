@@ -67,7 +67,7 @@ For each main category, the top 5 service types are reported. The full table is 
 * [Property Issues](https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=2960e2242f28b510VgnVCM10000071d60f89RCRD)
 * [Complaints & Comments](https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=6870e2242f28b510VgnVCM10000071d60f89RCRD)
 
-Subcategories can be found here: http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf
+Subcategories can be found [here](http://www.toronto.ca/311/assets/PDFs/service_standards_ssr.pdf)
 
 ## Louisville 311 Classification
 

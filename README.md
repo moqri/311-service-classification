@@ -7,6 +7,8 @@ proposed by cities, organizations, and individuals
 
 ![top_services](https://github.com/moqri/311-service-classification/raw/master/images/top_services.PNG)
 
+Classification (tagging) results will be added here soon!
+
 ### [Montreal 311 Service Requests, an Analysis](http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction)
  
 18 main categories (based on analysis of Montreal 311 data by [@nicolaskruchten](https://github.com/nicolaskruchten))

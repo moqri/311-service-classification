@@ -27,4 +27,4 @@
 
 Most used keywords accorss all 12 cities (after removing stop_words and ambiguous words) are as follows.
 
-STREET	 TRASH	 SIGN	 GRAFFITI	 TREE	 CART	 TRAFFIC	 RECYCLING	 SIDEWALK	 BUILDING	 VEHICLE	 ANIMAL	 WATER	 SIGNAL	 PARKING	 LIGHT	 ABANDONED	 MUNI	 DISTRICT	 PARK	 REMOVAL	 WASTE	 DEAD	 CURB	 NOISE	 CITY	 DUMPING	 GENERAL	 POTHOLE	 UTILITY	 WEEDS	 CLEANING	 VACANT	 PUBLIC	 MARKING	 SNOW	 PICKUP	 LITTER	 PERMIT	 YARD	 COMMERCIAL	 TREES	 SERVICE	 GRASS	 VAP	 DOF	 HEAT	 COLLECTION	 PEDESTRIAN	 PLUMBING
+Street, Trash, Sign, Graffiti, Tree, Cart, Traffic, Recycling, Sidewalk, Building, Vehicle, Animal, Water, Signal, Parking, Light, Abandoned, Muni, District, Park, Removal, Waste, Dead, Curb, Noise, City, Dumping, General, Pothole, Utility, Weeds, Cleaning, Vacant, Public, Marking, Snow, Pickup, Litter, Permit, Yard, Commercial, Trees, Service, Grass, VAP, DOF, Heat, Collection, Pedestrian, Plumbing

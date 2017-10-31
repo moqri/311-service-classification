@@ -1,5 +1,5 @@
 # 311 Service Request Classifications
-by cities, organizations, and individuals
+proposed by cities, organizations, and individuals
 
 ## [New Orleans](https://www.nola.gov/311/service-request-types/)
 

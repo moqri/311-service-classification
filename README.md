@@ -3,22 +3,33 @@ by cities, organizations, and individuals
 
 ## [Houston 311 Service Request Index](http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm)
 
-There are 68 main categories such as Apartments and Animals and under each main
-category there are 1 to 30 sub-categories. For example:
- 
-Animals
-* Dead Animal Collection ...
-* Live Animal in Storm Sewer
+68 main categories:
+* Air Quality	
+* Animals
+* Ballfield
+* Birth Certificates
+* Boarding House
+[full list](http://www.houstontx.gov/311/ServiceRequestDirectorywithSLA-Nov2016.htm)
 
-Apartments
-* Building Concern ...
-* Code Violation Report ...
 
+## [New Orleans](https://www.nola.gov/311/service-request-types/)
+
+11 main categories:
+* Roads/Drainage
+* Lights/Signs/Signals
+* Property Maintenance
+* Trash/Recycling
+* Abandoned Vehicles
+* Parks & Parkways
+* Mosquito, Termite & Rodent Control
+* Taxi Issues
+* Health-Related Requests
+* NORDC
+* EMS
 
 ## [Montreal 311 Service Requests, an Analysis](http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction)
  
-In the analysis of Montreal 311 data, Nicolas Kruchten categorizes all service
-types into the following 18 main categories:
+18 main categories (based on analysis of Montreal 311 data by @nicolaskruchten)
  
 * Bulky Collection
 * Dogs

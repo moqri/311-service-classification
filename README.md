@@ -3,9 +3,11 @@ proposed by cities, organizations, and individuals
 
 ## Classification Analysis
 ### [CDO Network 311 Service Classification, an Analysis](standard/README.md)
-[Top service types by city](https://github.com/moqri/311-service-classification/blob/master/standard/top_service.csv)
+This analysis look into CDO Networkd cities' 311 Data, find most common service request types, and propose standard tags (which can be used as categoris) from common services.
 
 ![top_services](https://github.com/moqri/311-service-classification/raw/master/images/top_services.PNG)
+
+[Complete table of top service types by city](https://github.com/moqri/311-service-classification/blob/master/standard/top_service.csv)
 
 Classification (tagging) results will be added here soon!
 

@@ -64,4 +64,4 @@ Of course, the cities themeselve could provide a better mapping.
 ### Using this taggs for analysis
 Given such a tagging dictiorany for any city, its complete 311 data could be automatically tagged. These standardized taggs in addition to tagging dictionaries therefore could be used to perform 311 related analysis accross cities.
 
-Let me know what your think [here](../issues/1)!
+Let me know what your think [here](https://github.com/moqri/311-service-classification/issues/1)!

@@ -56,7 +56,7 @@ After removing alternative term (e.g. weeds -> grass) and combining terms (e.g. 
 
 ### Mapping (tagging/classification)
 
-Mappng of the existing service type (or service category) to these tags could be done by is a JSON or a CSV format. For example, a I propose the follwing tagging of the top 50 most common service types for Louisville: 
+Mappng of the existing service type (or service category) to these tags could be done by is a a CSV or JSON format. For example, a I propose the follwing tagging of the top 50 most common service types for Louisville: 
 * [CSV](Louisville.csv)
 * [JSON](Louisville.json)
 

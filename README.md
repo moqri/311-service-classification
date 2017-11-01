@@ -9,7 +9,26 @@ This analysis look into CDO Networkd cities' 311 Data, find most common service 
 
 [Complete table of top service types by city](https://github.com/moqri/311-service-classification/blob/master/standard/top_service.csv)
 
-Classification (tagging) results will be added here soon!
+This analysis propose the following tags (categoris):
+
+* street 
+* light
+* traffic 
+* sidewalk
+* vehicle
+* graffiti 
+* tree 
+* grass
+* park
+* trash
+* recycle 
+* building
+* district
+* animal 
+* water 
+* noise
+* miscellaneous
+
 
 ### [Montreal 311 Service Requests, an Analysis](http://nicolas.kruchten.com/content/2015/06/montreal-311/#Cardinality-Reduction)
  

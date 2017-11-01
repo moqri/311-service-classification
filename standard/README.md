@@ -18,7 +18,7 @@ The following table summarizes the number of service requests and the ratio of t
 | San Diego        | 161763     | 100%     |
 | New Orleans      | 244338     | 100%     |
 
-Top 100 Service Ratio = Number of service requests in top 100 request types for that city / Total number of service request for that city in our analysis
+Top 100 Service Ratio = Total number of service requests in top 100 request types for that city / Total number of service request for that city (in our data)
 
 ### Top 100 Services by City
 
@@ -53,3 +53,11 @@ After removing alternative term (e.g. weeds -> grass) and combining terms (e.g. 
 * water 
 * noise
 * miscellaneous
+
+### Mapping (tagging/classification)
+
+Mappng of the existing service type (or service category) to these tags could be done by is a JSON or a CSV format. For example, a I propose the follwing tagging of the top 50 most common service types for Louisville: 
+* [JSON](standard/Louisville.json)
+* [CSV](standard/Louisville.csv)
+
+Of course, the cities themeselve could provide a better mapping. 
